@@ -1,6 +1,6 @@
 # Infilect-Project-Assignment
 
-## 🛠 Tech Stack & Choices
+Tech Stack and Choices
 | Component     | Technology         | Reasoning                                   |
 |---------------|--------------------|---------------------------------------------|
 | Backend       | FastAPI (Python)   | Lightweight, async, ideal for REST APIs     |
@@ -17,16 +17,16 @@ GitHub Actions – Free-tier CI/CD automation pipeline.
 Kubernetes – Local deployment using minikube or kind
 ********************************************************************************************************
 
-## Local Deployment Guide
+Local Deployment Guide
 
-### Prerequisites
+Prerequisites
 
 - Docker & Docker Compose
 - Node.js & npm
 - Python 3.10+
 - kubectl + minikube/k3s
 
-### Steps
+Steps
 
 ```bash
 git clone <your-repo-url>
